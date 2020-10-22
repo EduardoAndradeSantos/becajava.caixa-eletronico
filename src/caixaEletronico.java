@@ -1,4 +1,4 @@
-import java.util.Scanner;
+/*import java.util.Scanner;
 
 public class caixaEletronico {
 
@@ -49,4 +49,4 @@ public class caixaEletronico {
 		System.out.println("Nota 2:"+n2);
 		System.out.println("valor final:"+valor);
 	}
-}
+}*/
